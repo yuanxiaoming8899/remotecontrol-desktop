@@ -1,81 +1,83 @@
-<p align="center">
- <img width="100" height="100" src="https://user-images.githubusercontent.com/19570043/232027517-d3cb4aa2-3642-4ab3-810d-0e85961186ee.png">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/19570043/232027517-d3cb4aa2-3642-4ab3-810d-0e85961186ee.png"><img width="100" height="100" src="https://user-images.githubusercontent.com/19570043/232027517-d3cb4aa2-3642-4ab3-810d-0e85961186ee.png" style="max-width: 100%;"></a>
 </p>
-
-
-
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
-[![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg?style=flat-square)]()
-[![commitizen](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)]()
-[![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]()
-[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-
-> WebRTC based remote control for your computer open source
-
-
-# Remotecontrol – Desktop
-
-Remote Control Desktop is a powerful, reliable and fast open source remote desktop software that supports multiple platforms including Windows, MacOS, and Linux. The main aim of this project is to provide an efficient and hassle-free way of handling remote desktop operations. It's designed with user-friendly features that make it a perfect choice for both technical and non-technical users. Whether you are an IT professional providing remote assistance to your customers, or a user who needs to access their desktop remotely, this tool is perfect for you.
-
-Best of all, Remote Control Desktop prioritizes your privacy. Use your own server for secure connections, or leverage our free server without worrying about data collection. We're dedicated to ensuring your data remains confidential and secure.
-
-## + Points
-- ✅ Cross-platform support: Windows, MacOS, Linux
-- ✅ User-friendly interface
-- ✅ Efficient and fast remote desktop operations
-- ✅ Use your own server or our free server
-- ✅ Free remote maintenance without data collection
-- ✅ Works out of the box - no configuration required
-
-## Features
-- ✅ WebRTC based
-- ✅ Portable
-- ✅ Automatic updates
-- ✅ High security
-- ✅ Windows, Mac and Linux
-- ✅ Open Source
-- ✅ No installation required
-- ✅ No configuration required
-- ✅ No registration required
-- ✅ No data collection
-- ✅ No ads
-- ✅ No tracking
-- ✅ remote maintenance
-- ✅ address directory
-- ✅ file transfer
-- ✅ private and commercial
-- ✅ Unattended Access
-- ✅ Clipboard synchronization
-- ✅ Multilingual (English / German)
-
-## Download
-- [Download for Windows](https://github.com/codext-remotecontrol/remotecontrol-desktop/releases/latest)
-- [Download for MacOS](https://github.com/codext-remotecontrol/remotecontrol-desktop/releases/latest)
-- [Download for Linux](https://github.com/codext-remotecontrol/remotecontrol-desktop/releases/latest)
-
-
-## Demo
-
-<div>
- <img width="200"  src="https://user-images.githubusercontent.com/19570043/198855929-00e2a49e-456b-426c-a63a-e8d4d04fca04.png">
-  <img width="200"  src="https://user-images.githubusercontent.com/19570043/198855935-11a5e9be-e937-4557-a57a-3e1fd7e8365f.png">
-  <img height="275"  src="https://user-images.githubusercontent.com/19570043/198856069-7e69b81d-4444-4509-939f-92e971b6365a.png">
+<p dir="auto"><a href="#contributors"><img src="https://camo.githubusercontent.com/fa1580591afa9b6169c644aa10b7e71290e5d721510376401170c6376e77c428/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f616c6c5f636f6e7472696275746f72732d322d6f72616e67652e7376673f7374796c653d666c61742d737175617265" alt="所有贡献者" data-canonical-src="https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square" style="max-width: 100%;"></a>
+<a href="/codext-remotecontrol/remotecontrol-desktop/blob/main"><img src="https://camo.githubusercontent.com/321d63cf8717ac6dd0991c2c04a71d5934d8fd96e4ada981f901cc209280824d/68747470733a2f2f696d672e736869656c64732e696f2f7061636b61676973742f6c2f646f637472696e652f6f726d2e7376673f7374796c653d666c61742d737175617265" alt="麻省理工学院" data-canonical-src="https://img.shields.io/packagist/l/doctrine/orm.svg?style=flat-square" style="max-width: 100%;"></a>
+<a href="/codext-remotecontrol/remotecontrol-desktop/blob/main"><img src="https://camo.githubusercontent.com/d0bccaf3675d7e7b989bf3d6267fe1d2a3cc106cde91a35f5dee46583521e24b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6d6d6974697a656e2d667269656e646c792d627269676874677265656e2e7376673f7374796c653d666c61742d737175617265" alt="承诺" data-canonical-src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square" style="max-width: 100%;"></a>
+<a href="/codext-remotecontrol/remotecontrol-desktop/blob/main"><img src="https://camo.githubusercontent.com/a5ceaa9e114c16d2c7cfd7ef62032b26b6eb47b61b1263ae4ebc5497fedd45b2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d77656c636f6d652d627269676874677265656e2e7376673f7374796c653d666c61742d737175617265" alt="PR" data-canonical-src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" style="max-width: 100%;"></a>
+<a href="https://github.com/prettier/prettier"><img src="https://camo.githubusercontent.com/ac2d779d47a0eff00d77bf1066eef8ac98bcd9182c5bf77bc30a23285c4d918c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7374796c65645f776974682d70726574746965722d6666363962342e7376673f7374796c653d666c61742d737175617265" alt="更漂亮的" data-canonical-src="https://img.shields.io/badge/styled_with-prettier-ff69b4.svg?style=flat-square" style="max-width: 100%;"></a></p>
+<blockquote>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">基于 WebRTC 的计算机开源远程控制</font></font></p>
+</blockquote>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">远程控制 – 桌面</font></font></h1><a id="user-content-remotecontrol--desktop" class="anchor" aria-label="永久链接：远程控制 – 桌面" href="#remotecontrol--desktop"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">远程控制桌面是一款功能强大、可靠且快速的开源远程桌面软件，支持 Windows、MacOS 和 Linux 等多个平台。该项目的主要目的是提供一种高效且轻松的方式来处理远程桌面操作。它具有用户友好的功能，是技术和非技术用户的完美选择。无论您是为客户提供远程协助的 IT 专业人员，还是需要远程访问其桌面的用户，此工具都是您的理想选择。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最重要的是，远程控制桌面优先考虑您的隐私。使用您自己的服务器进行安全连接，或利用我们的免费服务器，无需担心数据收集。我们致力于确保您的数据保持机密和安全。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 积分</font></font></h2><a id="user-content--points" class="anchor" aria-label="永久链接：+积分" href="#-points"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅ 跨平台支持：Windows、MacOS、Linux</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅ 用户友好的界面</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅ 高效、快速的远程桌面操作</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅ 使用您自己的服务器或我们的免费服务器</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅ 免费远程维护，无需数据收集</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅ 开箱即用 - 无需配置</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特征</font></font></h2><a id="user-content-features" class="anchor" aria-label="固定链接：功能" href="#features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅ 基于 WebRTC</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅ 便携</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅ 自动更新</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅ 安全性高</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅ Windows、Mac 和 Linux</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅ 开源</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅ 无需安装</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅ 无需配置</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅ 无需注册</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅ 不收集数据</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅ 无广告</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅ 无追踪</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅ 远程维护</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅ 地址目录</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅ 文件传输</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅ 私人和商业</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅ 无人值守访问</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅ 剪贴板同步</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅ 多语言（英语/德语）</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载</font></font></h2><a id="user-content-download" class="anchor" aria-label="固定链接：下载" href="#download"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://github.com/codext-remotecontrol/remotecontrol-desktop/releases/latest"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载 Windows 版本</font></font></a></li>
+<li><a href="https://github.com/codext-remotecontrol/remotecontrol-desktop/releases/latest"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载 MacOS 版本</font></font></a></li>
+<li><a href="https://github.com/codext-remotecontrol/remotecontrol-desktop/releases/latest"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载 Linux 版本</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">演示</font></font></h2><a id="user-content-demo" class="anchor" aria-label="永久链接：演示" href="#demo"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div dir="auto">
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/19570043/198855929-00e2a49e-456b-426c-a63a-e8d4d04fca04.png"><img width="200" src="https://user-images.githubusercontent.com/19570043/198855929-00e2a49e-456b-426c-a63a-e8d4d04fca04.png" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/19570043/198855935-11a5e9be-e937-4557-a57a-3e1fd7e8365f.png"><img width="200" src="https://user-images.githubusercontent.com/19570043/198855935-11a5e9be-e937-4557-a57a-3e1fd7e8365f.png" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/19570043/198856069-7e69b81d-4444-4509-939f-92e971b6365a.png"><img height="275" src="https://user-images.githubusercontent.com/19570043/198856069-7e69b81d-4444-4509-939f-92e971b6365a.png" style="max-width: 100%;"></a>
 </div>
-
-## Build your own
-```
-git clone
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">建立你自己的</font></font></h2><a id="user-content-build-your-own" class="anchor" aria-label="永久链接：建立你自己的" href="#build-your-own"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>git clone
 npm install
 npm run start
-```
-## selfhost your own server
-You can use [coturn](https://github.com/coturn/coturn) to set up your own server. Right now, there is no user accessible way to change the server config, once you have set up your server, you need to rebuild the clients. We are currently working on a client-side GUI option to change the backend servers. That should make the whole thing much better.
-
-## Current Known issues
-- Keyboard is not being transmitted 100% of the time, it has bugs.
-- Sound is not being transmitted.
-- Currently we only support one way file transmisstion, from local to remote.
-- Clipboard also is supported one way, from local to remote.
-
-
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="git clone
+npm install
+npm run start" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自托管您自己的服务器</font></font></h2><a id="user-content-selfhost-your-own-server" class="anchor" aria-label="永久链接：自行托管您自己的服务器" href="#selfhost-your-own-server"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以使用</font></font><a href="https://github.com/coturn/coturn"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">coturn</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设置自己的服务器。目前，没有用户可访问的方式来更改服务器配置，一旦您设置了服务器，就需要重建客户端。我们目前正在开发一个客户端 GUI 选项来更改后端服务器。这应该会让整个事情变得更好。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">当前已知问题</font></font></h2><a id="user-content-current-known-issues" class="anchor" aria-label="永久链接：当前已知问题" href="#current-known-issues"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">键盘并非 100％ 的时间都被传输，它有缺陷。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">声音未传输。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">目前我们仅支持单向文件传输，从本地到远程。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">剪贴板也支持单向传输，从本地到远程。</font></font></li>
+</ul>
+</article></div>
